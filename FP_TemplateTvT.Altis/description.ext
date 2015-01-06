@@ -13,9 +13,9 @@ respawn = "BASE";
 // settings for mission name etc
 ////////////////////////////////////////////
 // example loadName: Operation MyMission
-OnLoadName = "FP TEMPLATE 1.5";
+OnLoadName = "FP TEMPLATE 1.0";
 onLoadMission="description.ext to change!";
-author="Cuel | 2014";
+author="Cuel | 2015";
 // custom load screen?
 loadScreen = "fp_misc\img\fp_logo.paa";
 ////////////////////////////////////////////
